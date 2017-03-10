@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485714216 source:d:\lucru\codeblocks\fordfulk\main.cpp
+	<fstream>
+	<iostream>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479568004 source:e:\codeblocks\github\pbinfo\epidemie\main.cpp
+	<fstream>
+	<iostream>
+

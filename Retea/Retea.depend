@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479412282 source:e:\codeblocks\github\pbinfo\retea\main.cpp
+	<fstream>
+	<iostream>
+

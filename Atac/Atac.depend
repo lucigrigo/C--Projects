@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1483711548 source:e:\codeblocks\github\pbinfo\atac\main.cpp
+	<fstream>
+	<iostream>
+
