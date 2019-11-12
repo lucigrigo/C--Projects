@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485698631 source:c:\users\samsung\desktop\abcd\scoala\proiecte scoala\codeblocks\grafuri\edmunds-karp\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
