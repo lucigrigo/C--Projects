@@ -1,0 +1,2 @@
+se dau 2 siruri de caractere
+sa se afiseze cel mai lung subsir crescator comun
